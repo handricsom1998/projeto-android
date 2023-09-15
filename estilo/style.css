@@ -153,6 +153,14 @@ main img.pequena {
     margin: auto;
 }
 
+#irina {
+    margin: 5%;
+}
+
+#dan {
+    margin: 5%
+}
+
 div.video{
     background-color: var(--cor5);
     margin: 0px -20px 30px -20px;
